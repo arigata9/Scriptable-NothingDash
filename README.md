@@ -1,6 +1,8 @@
 # Scriptable-NothingDash
 Some Scriptable widgets with the Nothing design
 
+![NothingClock](https://i.imgur.com/WBLImn4.jpeg)
+
 ## What's included
 
 This repository included multiple scripts. Choose whichever you like.
