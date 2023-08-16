@@ -35,7 +35,7 @@ async function createWidget() {
 
 
     // First line - heading
-    let _first = stack.addText("Anstehende Termine");
+    let _first = stack.addText("Upcoming events");
     _first.font = new Font(font_name, Heading_size);
     _first.textColor = fg;
 
