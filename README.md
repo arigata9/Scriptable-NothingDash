@@ -17,6 +17,8 @@ The font used in these widgets is [this one](https://fontstruct.com/fontstructio
 I used an App called "iFont" to integrate the font into iOS. The advantage is, that this app adds it using configuration profiles.
 That way it stays on your device, even if you choose to delete the app again.
 
+I also included a preconfigured iOS profile, that installs this font for you.
+
 Of course you're free to change the font to something else. But this was made solely to look like Nothing's widgets :)
 
 ## One more thing..
